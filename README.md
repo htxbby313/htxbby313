@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B1423,100:81536A&height=210&section=header&text=TAY%20COLEMAN&fontSize=46&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20PRODUCT%20BUILDER%20%E2%80%A2%20HOUSTON%2C%20TX&descFontSize=15&descAlignY=68&fontColor=FFF8F2" width="100%" alt="Tay Coleman — software engineer and product builder" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3A1830,45:C94F86,100:F2A8C7&height=230&section=header&text=✦%20TAY%20COLEMAN%20✦&fontSize=48&fontAlignY=36&desc=IT%20GIRL%20ENERGY%20%E2%9C%A6%20SOFTWARE%20ENGINEER%20%E2%9C%A6%20PRODUCT%20BUILDER&descFontSize=15&descAlignY=67&fontColor=FFF8FC" width="100%" alt="Tay Coleman — software engineer and product builder, with pink sparkle accents" />
 
   <p>
     <a href="https://colemanholdingsllc.com/"><img src="https://img.shields.io/badge/PORTFOLIO-7B465B?style=flat-square" alt="Portfolio" /></a>
@@ -8,13 +8,13 @@
     <a href="mailto:colemanantheus@gmail.com"><img src="https://img.shields.io/badge/EMAIL-2B1423?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
-  <sub>Thoughtful products, considered interfaces, dependable systems. ✧</sub>
+  <sub>✦ Pretty details. Powerful systems. Products with a point of view. ✦</sub>
 
 </div>
 
 <br/>
 
-## A little about me
+## ✧ A little about me
 
 I’m **Tay** — a Houston-based software engineer, product builder, and founder of [Coleman & Co.](https://colemanholdingsllc.com/).
 
@@ -24,7 +24,7 @@ I like bringing the whole product together: a clear idea, an interface with inte
 
 <br/>
 
-## Selected work
+## ✦ Selected work
 
 <table>
   <tr>
@@ -77,7 +77,7 @@ I like bringing the whole product together: a clear idea, an interface with inte
 
 <br/>
 
-## Tools I reach for
+## ✧ Tools I reach for
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,vite,nextjs,tailwind,nodejs,postgres,python,supabase,firebase,figma,postman,docker,git,github,vscode&perline=9&theme=light" alt="TypeScript, JavaScript, React, Vite, Next.js, Tailwind, Node.js, PostgreSQL, Python, Supabase, Firebase, Figma, Postman, Docker, Git, GitHub, and VS Code" />
@@ -85,7 +85,7 @@ I like bringing the whole product together: a clear idea, an interface with inte
 
 <br/>
 
-## What matters in my work
+## ✦ What matters in my work
 
 - **Good product judgment:** start with what a person is trying to do, then make the flow feel natural.
 - **Design and engineering together:** visual polish should sit on a solid, maintainable foundation.
