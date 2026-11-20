@@ -29,34 +29,48 @@ I like bringing the whole product together: a clear idea, an interface with inte
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>01 &nbsp; Hunter’s Cache</h3>
-      <p><i>Nationwide marketplace · Product design · Full-stack engineering</i></p>
-      <p>A gear resale marketplace built around how hunters think about game, season, terrain, and region. Built with seller profiles, messaging, operations tools, and careful checkout safeguards.</p>
-      <p><code>React</code> &nbsp; <code>Vite</code> &nbsp; <code>Node.js</code> &nbsp; <code>Express</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Netlify</code></p>
-      <p><a href="https://github.com/htxbby313/hunters-cache">Source</a> &nbsp;·&nbsp; <a href="https://hunterscacheusa.com/">Live experience</a></p>
+      <h3>01 &nbsp; Prop Pulse</h3>
+      <p><i>Property operations · Product architecture</i></p>
+      <p>A property-management operations prototype with company-scoped workspaces, secure sessions, and careful controls around tenant portals and outside services.</p>
+      <p><code>JavaScript</code> &nbsp; <code>Node.js</code> &nbsp; <code>React</code> &nbsp; <code>SQLite</code></p>
+      <p><a href="https://github.com/htxbby313/PropelAI">View pinned project →</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>02 &nbsp; Whisk</h3>
-      <p><i>Web application · UX architecture</i></p>
-      <p>A responsive application shaped around clear component structure, thoughtful interaction design, and reliable data flow.</p>
-      <p><code>Next.js</code> &nbsp; <code>TypeScript</code> &nbsp; <code>Tailwind CSS</code> &nbsp; <code>PostgreSQL</code></p>
-      <p><a href="https://github.com/htxbby313/Whisk-1-">View project →</a></p>
+      <h3>02 &nbsp; Hunter’s Cache</h3>
+      <p><i>Nationwide marketplace · Product design · Full-stack engineering</i></p>
+      <p>A hunting gear resale marketplace shaped around game, season, terrain, and region, with seller profiles, messaging, operations tools, and carefully gated checkout.</p>
+      <p><code>React</code> &nbsp; <code>Vite</code> &nbsp; <code>Node.js</code> &nbsp; <code>Express</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Netlify</code></p>
+      <p><a href="https://github.com/htxbby313/hunters-cache">Source</a> &nbsp;·&nbsp; <a href="https://hunterscacheusa.com/">Live experience</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>03 &nbsp; Deal Scout</h3>
-      <p><i>Shopping discovery · Data aggregation</i></p>
-      <p>A deal discovery concept for finding, filtering, and comparing offers across online stores.</p>
-      <p><code>React</code> &nbsp; <code>Node.js</code> &nbsp; <code>Data workflows</code></p>
-      <p><a href="https://github.com/htxbby313/deal-scout-ai-">View project →</a></p>
+      <h3>03 &nbsp; Whisk</h3>
+      <p><i>Travel planning · Local discovery · AI-assisted recommendations</i></p>
+      <p>A trip-planning experience for finding the character of a place, saving discoveries, and building itineraries with map, search, and AI-assisted recommendations.</p>
+      <p><code>React</code> &nbsp; <code>TypeScript</code> &nbsp; <code>Firebase</code> &nbsp; <code>Google Maps</code> &nbsp; <code>Gemini</code></p>
+      <p><a href="https://github.com/htxbby313/Whisk-1-">View project →</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>04 &nbsp; Market Bound</h3>
-      <p><i>Market intelligence · Analytics</i></p>
-      <p>A data-focused product concept for bringing market signals and useful metrics into a clear analytical experience.</p>
-      <p><code>TypeScript</code> &nbsp; <code>React</code> &nbsp; <code>APIs</code> &nbsp; <code>Tailwind CSS</code></p>
+      <h3>04 &nbsp; Deal Scout</h3>
+      <p><i>Real estate · Decision support · Private project</i></p>
+      <p>A private acquisitions workspace connecting property research, evidence-based underwriting, seller and buyer relationships, and review-led transaction workflows.</p>
+      <p><code>Next.js</code> &nbsp; <code>TypeScript</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Prisma</code></p>
+      <p><i>Private repository · available to discuss</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>05 &nbsp; MarketBound</h3>
+      <p><i>Global mobility · Cross-border expansion · Planning</i></p>
+      <p>A planning toolkit for U.S. companies exploring international growth, with a readiness assessment, cost planning, country profiles, and structured expansion playbooks.</p>
+      <p><code>Python</code> &nbsp; <code>HTML</code> &nbsp; <code>Tailwind CSS</code></p>
       <p><a href="https://github.com/htxbby313/marketbound">View project →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>At a glance</h3>
+      <p>Across these projects, I bring product thinking, interface design, and the systems behind the experience into the same build.</p>
+      <p><i>Selected work · Updated November 2026</i></p>
     </td>
   </tr>
 </table>
