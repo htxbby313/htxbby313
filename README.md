@@ -115,7 +115,7 @@ Hey! I’m **Tay** — a full-stack engineer, product builder, and founder of [C
         <code>Tailwind CSS</code>
       </p>
       <p>
-        <a href="https://github.com/htxbby313"><b>✦ View Market Bound ✦ →</b></a>
+        <a href="https://github.com/htxbby313/marketbound"><b>✦ View Market Bound ✦ →</b></a>
       </p>
     </td>
   </tr>
