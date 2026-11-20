@@ -71,7 +71,7 @@ Hey! I’m **Tay** — a full-stack engineer, product builder, and founder of [C
         <code>PostgreSQL</code>
       </p>
       <p>
-        <a href="https://github.com/htxbby313/whisk"><b>✦ View Whisk Repo ✦ →</b></a>
+        <a href=https://github.com/htxbby313/Whisk-1-><b>✦ View Whisk Repo ✦ →</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
