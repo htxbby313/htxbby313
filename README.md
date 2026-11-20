@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3A1830,45:C94F86,100:F2A8C7&height=230&section=header&text=✦%20TAY%20COLEMAN%20✦&fontSize=48&fontAlignY=36&desc=IT%20GIRL%20ENERGY%20%E2%9C%A6%20SOFTWARE%20ENGINEER%20%E2%9C%A6%20PRODUCT%20BUILDER&descFontSize=15&descAlignY=67&fontColor=FFF8FC" width="100%" alt="Tay Coleman — software engineer and product builder, with pink sparkle accents" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:54163C,35:D63384,70:F071B0,100:FFD6E7&height=285&section=header&text=✦%20TAY%20COLEMAN%20✦&fontSize=54&fontAlignY=34&desc=THE%20IT%20GIRL%20BUILDING%20THOUGHTFUL%20TECH&descFontSize=18&descAlignY=63&fontColor=FFF8FC" width="100%" alt="Tay Coleman — the it girl building thoughtful tech, framed by bold pink sparkle accents" />
 
   <p>
     <a href="https://colemanholdingsllc.com/"><img src="https://img.shields.io/badge/PORTFOLIO-7B465B?style=flat-square" alt="Portfolio" /></a>
@@ -8,23 +8,25 @@
     <a href="mailto:colemanantheus@gmail.com"><img src="https://img.shields.io/badge/EMAIL-2B1423?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
-  <sub>✦ Pretty details. Powerful systems. Products with a point of view. ✦</sub>
+  <h2>✧･ﾟ: *✧･ﾟ:* &nbsp; PRETTY CODE. BIG IDEAS. BUILT TO WORK. &nbsp; *:･ﾟ✧*:･ﾟ✧</h2>
+  <p><b>SOFTWARE ENGINEER&nbsp; ✦ &nbsp; PRODUCT BUILDER&nbsp; ✦ &nbsp; HOUSTON, TX</b></p>
+  <p>♡ &nbsp; I make the kind of digital experiences that look good, feel intuitive, and hold up under the hood. &nbsp; ♡</p>
 
 </div>
 
 <br/>
 
-## ✧ A little about me
+## 💖 THE GIRL BEHIND THE BUILD
 
-I’m **Tay** — a Houston-based software engineer, product builder, and founder of [Coleman & Co.](https://colemanholdingsllc.com/).
+I’m **Tay** — a Houston-based software engineer, product builder, and founder of [Coleman & Co.](https://colemanholdingsllc.com/). I love a polished interface, a clever solution, and making the whole thing work beautifully.
 
-I like bringing the whole product together: a clear idea, an interface with intention, and the systems behind it that make the experience work. I move across product, frontend, backend, data, and deployment, and I care about making the details feel as considered as the big picture.
+My sweet spot is where **design meets engineering**: taking a big idea from first sketch to thoughtful interface to the systems that make it real. I move across product, frontend, backend, data, and deployment—and yes, I believe the details deserve to be pretty *and* purposeful.
 
-**Currently building:** [Hunter’s Cache](https://hunterscacheusa.com/), a nationwide resale marketplace for hunters.
+**Currently building** &nbsp; ✦ &nbsp; [Hunter’s Cache](https://hunterscacheusa.com/) — a nationwide hunting gear marketplace with a point of view.
 
 <br/>
 
-## ✦ Selected work
+## 💅 THE PORTFOLIO
 
 <table>
   <tr>
@@ -77,7 +79,7 @@ I like bringing the whole product together: a clear idea, an interface with inte
 
 <br/>
 
-## ✧ Tools I reach for
+## 💻 MY TOOLKIT
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,vite,nextjs,tailwind,nodejs,postgres,python,supabase,firebase,figma,postman,docker,git,github,vscode&perline=9&theme=light" alt="TypeScript, JavaScript, React, Vite, Next.js, Tailwind, Node.js, PostgreSQL, Python, Supabase, Firebase, Figma, Postman, Docker, Git, GitHub, and VS Code" />
@@ -85,7 +87,7 @@ I like bringing the whole product together: a clear idea, an interface with inte
 
 <br/>
 
-## ✦ What matters in my work
+## ✨ WHAT I BRING TO THE BUILD
 
 - **Good product judgment:** start with what a person is trying to do, then make the flow feel natural.
 - **Design and engineering together:** visual polish should sit on a solid, maintainable foundation.
@@ -95,9 +97,9 @@ I like bringing the whole product together: a clear idea, an interface with inte
 
 <div align="center">
 
-  <h2>Let’s make something thoughtful.</h2>
-  <p>Open to engineering roles, software contracts, and good product collaborations.</p>
+  <h2>✦ LET’S BUILD SOMETHING THAT HAS IT ALL ✦</h2>
+  <p>Open to software engineering roles, product collaborations, and projects with a little sparkle.</p>
   <p><a href="mailto:colemanantheus@gmail.com">Say hello →</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/colemanantheus">Connect on LinkedIn</a></p>
-  <sub>Houston, Texas &nbsp;·&nbsp; Building across web, data, and product</sub>
+  <sub>♡ HOUSTON, TEXAS &nbsp; ✦ &nbsp; BUILDING ACROSS WEB, DATA & PRODUCT &nbsp; ✦ &nbsp; ALWAYS WITH INTENTION ♡</sub>
 
 </div>
