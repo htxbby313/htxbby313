@@ -101,7 +101,7 @@ Hey! I’m **Tay** — a full-stack engineer, product builder, and founder of [C
         <code>Database</code>
       </p>
       <p>
-        <a href="https://github.com/htxbby313"><b>✦ View Deal Scout ✦ →</b></a>
+        <a href="https://github.com/htxbby313/deal-scout-ai-"><b>✦ View Deal Scout ✦ →</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
