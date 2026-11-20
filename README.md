@@ -75,17 +75,20 @@ Hey! I’m **Tay** — a full-stack engineer, product builder, and founder of [C
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🏹 Hunter's Cache (FFL)</h3>
-      <p><i>Outdoor & Hunting Platform</i></p>
-      <p>Specialized hunting platform providing gear management, location/cache data, and FFL dealer verification & logistics integration.</p>
+      <h3 align="left">🏹 Hunter's Cache</h3>
+      <p><i>Nationwide Hunting Gear Resale Marketplace</i></p>
+      <p>A nationwide marketplace where hunters buy and sell pre-owned gear, organized by game, season, and region.</p>
       <p>
         <code>React</code> &nbsp;•&nbsp; 
-        <code>Node.js</code> &nbsp;•&nbsp; 
-        <code>Logistics APIs</code> &nbsp;•&nbsp; 
-        <code>Database</code>
+        <code>Vite</code> &nbsp;•&nbsp; 
+        <code>Node.js / Express</code> &nbsp;•&nbsp; 
+        <code>PostgreSQL</code> &nbsp;•&nbsp; 
+        <code>Netlify</code>
       </p>
       <p>
-        <a href="https://github.com/htxbby313"><b>✦ View Hunter's Cache ✦ →</b></a>
+        <a href="https://github.com/htxbby313/hunters-cache"><b>✦ View GitHub Repo ✦ →</b></a>
+        &nbsp;•&nbsp;
+        <a href="https://hunterscacheusa.com/"><b>✦ Visit Live Site ✦ →</b></a>
       </p>
     </td>
   </tr>
